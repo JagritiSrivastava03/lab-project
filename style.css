@@ -26,3 +26,23 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+nav {
+    margin-bottom: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
