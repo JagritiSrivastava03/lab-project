@@ -1,26 +1,28 @@
-## Experiment 3: Dynamic To-Do List Using JavaScript and DOM
+## Experiment 4: SEO and Web Accessibility
 
 ### Aim
 
-To develop a dynamic To-Do List application using JavaScript and DOM manipulation.
+To improve website visibility and accessibility using semantic HTML, proper heading structure and meta tags.
 
 ### Features
 
-1. Add new tasks to the To-Do List.
-2. Display tasks dynamically on the webpage.
-3. Mark tasks as completed.
-4. Delete tasks from the list.
-5. Update the webpage without reloading it.
+1. Used semantic HTML elements such as header, nav, main, section and footer.
+2. Implemented proper heading hierarchy.
+3. Added meta description and title tags for SEO.
+4. Added alternative text to images.
+5. Used labels for form inputs.
+6. Added keyboard-friendly navigation.
 
 ### Technologies Used
 
 - HTML
 - CSS
-- JavaScript
-- DOM Manipulation
+- Semantic HTML
+- SEO Techniques
+- Web Accessibility
 - Visual Studio Code
 - GitHub
 
 ### Result
 
-Successfully developed a dynamic To-Do List application using JavaScript and DOM manipulation, allowing users to add, complete and delete tasks.
+Successfully developed an SEO-friendly and accessible webpage using semantic HTML elements, proper heading structure and meta tags.
