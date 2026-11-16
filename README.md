@@ -1,23 +1,34 @@
-## Experiment 2: Personal Portfolio Website
+## Experiment 3: Dynamic To-Do List Using JavaScript and DOM
 
 ### Aim
 
-To design and develop a personal portfolio website using HTML and CSS.
+To develop a dynamic To-Do List application using JavaScript and DOM manipulation.
 
 ### Features
 
-1. Navigation menu for easy navigation.
-2. About section containing personal information.
-3. Projects section displaying completed projects.
-4. Contact section with a contact form.
+1. Add new tasks to the To-Do List.
+2. Display tasks dynamically on the webpage.
+3. Mark tasks as completed.
+4. Delete tasks from the list.
+5. Update the webpage without reloading it.
 
 ### Technologies Used
 
 - HTML
 - CSS
+- JavaScript
+- DOM Manipulation
 - Visual Studio Code
 - GitHub
 
 ### Result
 
-Successfully designed and developed a personal portfolio website with navigation, about, projects and contact sections.
+Successfully developed a dynamic To-Do List application using JavaScript and DOM manipulation, allowing users to add, complete and delete tasks.
+
+### GitHub Repository URL
+
+https://github.com/JagritiSrivastava03/lab-project
+
+### Live Website URL
+
+PASTE YOUR EXPERIMENT 3 LIVE WEBSITE LINK HERE
