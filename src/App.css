@@ -1,0 +1,31 @@
+
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: black;
+  background: white;
+}
+
+input {
+  padding: 8px;
+  width: 250px;
+  border: 1px solid black;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  background: white;
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.note {
+  margin-top: 10px;
+}
+
+.note p {
+  display: inline-block;
+  margin-right: 10px;
+}
