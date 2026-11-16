@@ -1,27 +1,27 @@
-## Experiment 5: Weather Application Using Fetch API
+## Experiment 6: Responsive Blog Website Using Bootstrap
 
 ### Aim
 
-To develop a weather application using JavaScript Fetch API to retrieve and display real-time weather information from a weather API.
+To build a responsive blog website using CSS media queries and Bootstrap.
 
 ### Features
 
-1. Allows users to enter a city name.
-2. Fetches weather information using the Fetch API.
-3. Displays the current temperature of the selected city.
-4. Shows weather conditions such as sunny, cloudy or rainy.
-5. Handles invalid city names and API errors.
+1. Responsive navigation bar.
+2. Blog posts displayed using Bootstrap cards.
+3. About section and categories sidebar.
+4. Contact section and footer.
+5. Layout adjusts according to desktop, tablet and mobile screen sizes.
 
 ### Technologies Used
 
 - HTML
 - CSS
-- JavaScript
-- Fetch API
-- Open-Meteo API
+- Bootstrap 5
+- CSS Media Queries
 - Visual Studio Code
 - GitHub
 
 ### Result
 
-Successfully developed a weather application using JavaScript Fetch API to retrieve and display weather information dynamically.
+Successfully developed a responsive blog website using Bootstrap and CSS media queries that adapts to different screen sizes.
+
