@@ -24,11 +24,3 @@ To develop a dynamic To-Do List application using JavaScript and DOM manipulatio
 ### Result
 
 Successfully developed a dynamic To-Do List application using JavaScript and DOM manipulation, allowing users to add, complete and delete tasks.
-
-### GitHub Repository URL
-
-https://github.com/JagritiSrivastava03/lab-project
-
-### Live Website URL
-
-PASTE YOUR EXPERIMENT 3 LIVE WEBSITE LINK HERE
